@@ -4,7 +4,7 @@ By: Francisco Esquivel
 This project analyzes an e-commerce conversion funnel (Home → Search → Payment → Confirmation) to identify where users drop off and to propose actionable, data-driven recommendations to improve conversion, with a focus on new-user performance.
 
 ## Contents
-- `Clara_DA_Challenge_Notebook.ipynb`: end-to-end analysis with funnel metrics, segment breakdowns, visualizations, findings, and recommendations.
+- `Clara_Francisco Esquivel_Challenge.ipynb`: end-to-end analysis with funnel metrics, segment breakdowns, visualizations, findings, and recommendations.
 - `data/`: input CSV files provided in the challenge.
 - `README.md`: project summary and run instructions.
 
